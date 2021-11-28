@@ -1,0 +1,1 @@
+For "#pragma once": https://stackoverflow.com/questions/1143936/pragma-once-vs-include-guards
